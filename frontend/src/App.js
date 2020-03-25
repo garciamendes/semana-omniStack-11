@@ -1,15 +1,12 @@
 import React from 'react';
-import './app.css'
+
+// imports local
+import './css/index.css'
+import Routes from './router'
 
 function App() {
   return (
-    <>
-      <div>
-        <p>
-          Hello World
-      </p>
-      </div>
-    </>
+    <Routes />
   );
 }
 
