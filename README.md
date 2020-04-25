@@ -3,4 +3,3 @@
 # TECNOLOGIAS:
   -> node.js (back-end)
   -> react.js (front-end)
-  -> react Native[Expo] (mobile)
